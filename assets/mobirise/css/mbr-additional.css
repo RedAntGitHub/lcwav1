@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One:400);
 @import url(https://fonts.googleapis.com/css?family=Mukta:200,300,400,500,600,700,800);
 
 
@@ -20,7 +21,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Mukta', sans-serif;
+  font-family: 'Fjalla One', sans-serif;
   font-size: 4rem;
 }
 .display-1 > .mbr-iconfont {
@@ -1415,12 +1416,12 @@ body {
 }
 .cid-rrETzwboaT .navbar {
   padding: .5rem 0;
-  background: #99288d;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
 }
 .cid-rrETzwboaT .navbar-dropdown.bg-color.transparent.opened {
-  background: #99288d;
+  background: #ffffff;
 }
 .cid-rrETzwboaT a {
   font-style: normal;
@@ -1511,7 +1512,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rrETzwboaT .dropdown .dropdown-menu {
-  background: #99288d;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1582,7 +1583,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #99288d;
 }
 .cid-rrETzwboaT button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1819,6 +1820,17 @@ body {
 .cid-rrETzwboaT .nav-link:hover,
 .cid-rrETzwboaT .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-rrF0e1fDsN header-title {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-rrF0e1fDsN .header-title {
+  position: fixed;
+  left: 50px;
+  right: 50px;
+  bottom: 130px;
+  letter-spacing: 3px;
 }
 .cid-rrF29noZvn {
   padding-top: 60px;
