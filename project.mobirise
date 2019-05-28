@@ -515,7 +515,7 @@
               "position": "fixed",
               "left": "50px",
               "right": "50px",
-              "bottom": "130px",
+              "bottom": "120px",
               "letter-spacing": "3px"
             }
           },
